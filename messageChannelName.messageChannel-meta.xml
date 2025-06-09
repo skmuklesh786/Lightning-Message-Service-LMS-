@@ -1,1 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LightningMessageChannel xmlns="http://soap.sforce.com/2006/04/metadata">
 
+<masterLabel>countdata</masterLabel>
+	<isExposed>true</isExposed>
+	<description> nijer bojher moto likho </description>
+	
+	<lightningMessageFields>
+	<fieldName>opprator</fieldName>
+	<description>nijer bojher moto </description>
+	</lightningMessageFields>
+	
+	<lightningMessageFields>
+	<fieldName>constant</fieldName>
+	<description>nijer bojher moto </description>
+	</lightningMessageFields>
+
+</LightningMessageChannel>
